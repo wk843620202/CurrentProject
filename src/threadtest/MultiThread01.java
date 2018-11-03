@@ -8,7 +8,7 @@ import java.lang.management.ThreadMXBean;
  * @author wangkang
  *
  */
-public class MultiThread {
+public class MultiThread01 {
 
 	public static void main(String[] args) {
 		ThreadMXBean threadMXBean = ManagementFactory.getThreadMXBean();
