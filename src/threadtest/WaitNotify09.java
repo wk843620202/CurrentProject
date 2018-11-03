@@ -4,7 +4,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.concurrent.TimeUnit;
 
-public class WaitNotify {
+public class WaitNotify09 {
 	
 	static boolean flag = true;
 	static Object lock = new Object();

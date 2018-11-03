@@ -1,6 +1,6 @@
 package threadtest;
 
-public class Join {
+public class Join11 {
 	
 
 	public static void main(String[] args) {

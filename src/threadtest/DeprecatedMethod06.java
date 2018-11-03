@@ -5,7 +5,7 @@ import java.util.Date;
 import java.util.concurrent.TimeUnit;
 
 
-public class DeprecatedMethod {
+public class DeprecatedMethod06 {
 	
 	static SimpleDateFormat simpleDateFormat = new SimpleDateFormat("HH:mm:ss");
 

@@ -2,7 +2,7 @@ package threadtest;
 
 import java.util.concurrent.TimeUnit;
 
-public class Daemon {
+public class Daemon04 {
 
 	public static void main(String[] args) {
 		Thread thread = new Thread(new DaemonRunner(),"DaemonRunner");

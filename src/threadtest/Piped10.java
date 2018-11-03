@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.io.PipedReader;
 import java.io.PipedWriter;
 
-public class Piped {
+public class Piped10 {
 
 	public static void main(String[] args) throws Exception {
 		//PipedWriter 和  PipedReader，主要用于线程之间的数据传输

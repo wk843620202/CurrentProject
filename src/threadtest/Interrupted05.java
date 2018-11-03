@@ -2,7 +2,7 @@ package threadtest;
 
 import java.util.concurrent.TimeUnit;
 
-public class Interrupted {
+public class Interrupted05 {
 
 	public static void main(String[] args) throws Exception {
 		Thread sleepThread = new Thread(new SleepRunner(),"sleepRunner");

@@ -9,7 +9,7 @@ import java.util.concurrent.TimeUnit;
  * @author wangkang
  *
  */
-public class Priority {
+public class Priority02 {
 	
 	private static volatile boolean nostart = true;
 	private static volatile boolean noEnd = true;

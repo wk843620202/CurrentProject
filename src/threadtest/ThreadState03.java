@@ -7,7 +7,7 @@ import java.util.concurrent.TimeUnit;
  * @author wangkang
  *
  */
-public class ThreadState {
+public class ThreadState03 {
 
 	public static void main(String[] args) {
 		new Thread(new TimeWaiting(),"TimeWaitingThread").start();

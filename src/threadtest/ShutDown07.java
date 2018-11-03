@@ -3,7 +3,7 @@ package threadtest;
 import java.util.concurrent.TimeUnit;
 
 
-public class ShutDown {
+public class ShutDown07 {
 	
 	
 
